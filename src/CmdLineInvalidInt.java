@@ -6,6 +6,6 @@ public class CmdLineInvalidInt{
         int s= input.nextInt();
         int r= input.nextInt();
         int sum=s+r;
-        System.out.println(" sum is " + sum)
+        System.out.println(" sum is " + sum);
     }
 }
